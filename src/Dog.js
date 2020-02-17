@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Dog = (props) => {
+    console.log(props)
     return (
         <div>
             <h1> Dog!!</h1>

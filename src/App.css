@@ -2,3 +2,18 @@
   text-align: center;
 }
 
+.App-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.App-nav a {
+  padding: 1rem;
+}
+
+.active-link {
+  color: pink;
+  border-bottom: 1px solid black;
+}
